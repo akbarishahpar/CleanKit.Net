@@ -1,4 +1,4 @@
-# CleanKit.Net
+<p align="center"><img src="https://raw.githubusercontent.com/akbarishahpar/CleanKit.Net/refs/heads/main/Logo.png" /></p>
 
 **CleanKit.Net** is a lightweight and modular framework for building scalable, maintainable, and testable applications using **Clean Architecture** principles in **ASP.NET Core** and **C#**.
 
