@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <PackageId>CleanKit.Net.Application</PackageId>
@@ -11,7 +11,7 @@
     <Description>A .NET toolkit for implementing Clean Architecture with a focus on modularity, separation of concerns, and scalability.</Description>
     <PackageTags>Clean Architecture MediatR CQRS Fluent Validation</PackageTags>
     <PackageIcon>Icon.png</PackageIcon>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageReadmeFile>README-NUGET.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <PackageProjectUrl>https://github.com/akbarishahpar/CleanKit.Net</PackageProjectUrl>
