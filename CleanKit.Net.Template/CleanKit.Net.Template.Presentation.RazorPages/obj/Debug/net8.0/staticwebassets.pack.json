@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Presentation.RazorPages\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CleanKit.Net.Template.Presentation.RazorPages.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CleanKit.Net.Template.Presentation.RazorPages.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CleanKit.Net.Template.Presentation.RazorPages.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CleanKit.Net.Template.Presentation.RazorPages.props",
+      "PackagePath": "build\\CleanKit.Net.Template.Presentation.RazorPages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CleanKit.Net.Template.Presentation.RazorPages.props",
+      "PackagePath": "buildMultiTargeting\\CleanKit.Net.Template.Presentation.RazorPages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CleanKit.Net.Template.Presentation.RazorPages.props",
+      "PackagePath": "buildTransitive\\CleanKit.Net.Template.Presentation.RazorPages.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

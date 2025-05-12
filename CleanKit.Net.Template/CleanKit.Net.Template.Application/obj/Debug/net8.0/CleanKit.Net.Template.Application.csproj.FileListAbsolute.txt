@@ -1,0 +1,12 @@
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\bin\Debug\net8.0\CleanKit.Net.Template.Application.deps.json
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\bin\Debug\net8.0\CleanKit.Net.Template.Application.dll
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\bin\Debug\net8.0\CleanKit.Net.Template.Application.pdb
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\obj\Debug\net8.0\CleanKit.Net.Template.Application.csproj.AssemblyReference.cache
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\obj\Debug\net8.0\CleanKit.Net.Template.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\obj\Debug\net8.0\CleanKit.Net.Template.Application.AssemblyInfoInputs.cache
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\obj\Debug\net8.0\CleanKit.Net.Template.Application.AssemblyInfo.cs
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\obj\Debug\net8.0\CleanKit.Net.Template.Application.csproj.CoreCompileInputs.cache
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\obj\Debug\net8.0\CleanKit.Net.Template.Application.dll
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\obj\Debug\net8.0\refint\CleanKit.Net.Template.Application.dll
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\obj\Debug\net8.0\CleanKit.Net.Template.Application.pdb
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Application\obj\Debug\net8.0\ref\CleanKit.Net.Template.Application.dll

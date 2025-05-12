@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "akbarishahpar",
+  "classifications": ["Solution"],
+  "identity": "CleanKit.Net.Template",
+  "name": "A template for setting up clean architecture",
+  "shortName": "multiproj",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "sourceName": "CleanKit.Net.Template",
+  "preferNameDirectory": true
+}

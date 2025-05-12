@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Error.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Index.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Privacy.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Shared\_Layout.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Shared\_ValidationScriptsPartial.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\_ViewImports.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\_ViewStart.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanKit.Net.Template.Application\CleanKit.Net.Template.Application.csproj" />
+    <ProjectReference Include="..\CleanKit.Net.Template.Infrastructure\CleanKit.Net.Template.Infrastructure.csproj" />
+    <ProjectReference Include="..\CleanKit.Net.Template.Persistence\CleanKit.Net.Template.Persistence.csproj" />
+    <ProjectReference Include="..\CleanKit.Net.Template.Presentation.RazorPages\CleanKit.Net.Template.Presentation.RazorPages.csproj" />
+    <ProjectReference Include="..\CleanKit.Net.Template.Shared\CleanKit.Net.Template.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

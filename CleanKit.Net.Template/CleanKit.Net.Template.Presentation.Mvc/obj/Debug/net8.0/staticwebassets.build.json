@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "iMB7GGQw2QR+wWeutqjblKRUd0Xwqq3F8RhxpnMSzn4=",
+  "Source": "CleanKit.Net.Template.Presentation.Mvc",
+  "BasePath": "_content/CleanKit.Net.Template.Presentation.Mvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Presentation.Mvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CleanKit.Net.Template.Presentation.Mvc.styles.css",
+      "SourceId": "CleanKit.Net.Template.Presentation.Mvc",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Presentation.Mvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/CleanKit.Net.Template.Presentation.Mvc",
+      "RelativePath": "CleanKit.Net.Template.Presentation.Mvc.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Presentation.Mvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CleanKit.Net.Template.Presentation.Mvc.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Presentation.Mvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CleanKit.Net.Template.Presentation.Mvc.bundle.scp.css",
+      "SourceId": "CleanKit.Net.Template.Presentation.Mvc",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Presentation.Mvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/CleanKit.Net.Template.Presentation.Mvc",
+      "RelativePath": "CleanKit.Net.Template.Presentation.Mvc.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Presentation.Mvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CleanKit.Net.Template.Presentation.Mvc.bundle.scp.css"
+    }
+  ]
+}

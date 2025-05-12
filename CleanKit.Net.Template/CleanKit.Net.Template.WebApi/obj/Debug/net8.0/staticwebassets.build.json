@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "TnBgZhFbHkPn1aq5AzDZ7spqeF7/KBdy4D4LbjTswoA=",
+  "Source": "CleanKit.Net.Template.WebApi",
+  "BasePath": "_content/CleanKit.Net.Template.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Presentation.WebApi\\CleanKit.Net.Template.Presentation.WebApi.csproj",
+      "Version": 2,
+      "Source": "CleanKit.Net.Template.Presentation.WebApi",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

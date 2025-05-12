@@ -1,0 +1,15 @@
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\bin\Debug\net8.0\CleanKit.Net.Template.Persistence.deps.json
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\bin\Debug\net8.0\CleanKit.Net.Template.Persistence.dll
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\bin\Debug\net8.0\CleanKit.Net.Template.Persistence.pdb
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\bin\Debug\net8.0\CleanKit.Net.Template.Domain.dll
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\bin\Debug\net8.0\CleanKit.Net.Template.Domain.pdb
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\obj\Debug\net8.0\CleanKit.Net.Template.Persistence.csproj.AssemblyReference.cache
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\obj\Debug\net8.0\CleanKit.Net.Template.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\obj\Debug\net8.0\CleanKit.Net.Template.Persistence.AssemblyInfoInputs.cache
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\obj\Debug\net8.0\CleanKit.Net.Template.Persistence.AssemblyInfo.cs
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\obj\Debug\net8.0\CleanKit.Net.Template.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\obj\Debug\net8.0\CleanKit.A951D7B6.Up2Date
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\obj\Debug\net8.0\CleanKit.Net.Template.Persistence.dll
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\obj\Debug\net8.0\refint\CleanKit.Net.Template.Persistence.dll
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\obj\Debug\net8.0\CleanKit.Net.Template.Persistence.pdb
+C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Persistence\obj\Debug\net8.0\ref\CleanKit.Net.Template.Persistence.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CleanKit.Net.Template.WebApi.props" />
+</Project>
