@@ -1,7 +1,7 @@
-﻿using Framework.Domain.Abstractions;
-using Framework.Outbox.Enumerations;
+﻿using CleanKit.Net.Domain.Abstractions;
+using CleanKit.Net.Outbox.Enumerations;
 
-namespace Framework.Outbox.Entities;
+namespace CleanKit.Net.Outbox.Entities;
 
 public class OutboxMessage : IEntity
 {

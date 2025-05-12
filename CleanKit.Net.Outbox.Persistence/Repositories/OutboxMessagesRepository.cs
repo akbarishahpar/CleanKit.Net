@@ -1,12 +1,11 @@
-﻿using Framework.Application.Abstractions.Data;
-using Framework.Outbox.Abstractions.Repositories;
-using Framework.Outbox.Entities;
-using Framework.Outbox.Enumerations;
-using Framework.Persistence.Abstractions;
-using Framework.Persistence.Miscellaneous;
+﻿using CleanKit.Net.Outbox.Abstractions.Repositories;
+using CleanKit.Net.Outbox.Entities;
+using CleanKit.Net.Outbox.Enumerations;
+using CleanKit.Net.Persistence.Abstractions;
+using CleanKit.Net.Persistence.Miscellaneous;
 using Microsoft.EntityFrameworkCore;
 
-namespace Framework.Outbox.Persistence.Repositories;
+namespace CleanKit.Net.Outbox.Persistence.Repositories;
 
 public class OutboxMessagesRepository : GenericRepository<OutboxMessage>, IOutboxMessagesRepository
 {

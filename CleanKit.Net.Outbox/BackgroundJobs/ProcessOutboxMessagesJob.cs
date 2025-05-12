@@ -1,13 +1,13 @@
-﻿using Framework.Application.Abstractions.Data;
-using Framework.Domain.Events;
-using Framework.Outbox.Abstractions.Repositories;
-using Framework.Outbox.Enumerations;
+﻿using CleanKit.Net.Application.Abstractions.Data;
+using CleanKit.Net.Domain.Events;
+using CleanKit.Net.Outbox.Abstractions.Repositories;
+using CleanKit.Net.Outbox.Enumerations;
 using MediatR;
 using Newtonsoft.Json;
 using Polly;
 using Quartz;
 
-namespace Framework.Outbox.BackgroundJobs;
+namespace CleanKit.Net.Outbox.BackgroundJobs;
 
 [DisallowConcurrentExecution]
 // ReSharper disable once ClassNeverInstantiated.Global
@@ -54,7 +54,7 @@ public class ProcessOutboxMessagesJob : IJob
                 });
 
             var result =
-                await policy.ExecuteAndCaptureAsync(() => _publisher.Publish(domainEvent, context.CancellationToken));
+                await policy.ExecuteAndCaptureAsync(() => _publisher.Publish(domainEvent!, context.CancellationToken));
 
             outboxMessage.ProcessedOnUtc = DateTime.UtcNow;
 

@@ -38,4 +38,9 @@
     <ProjectReference Include="..\CleanKit.Net.Utils\CleanKit.Net.Utils.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="Icon.png" Pack="true" PackagePath="" />
+    <None Include="README-NUGET.md" Pack="true" PackagePath="" />
+  </ItemGroup>
+
 </Project>

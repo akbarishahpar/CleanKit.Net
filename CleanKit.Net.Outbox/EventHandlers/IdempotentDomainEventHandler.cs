@@ -1,10 +1,10 @@
-﻿using Framework.Application.Abstractions.Data;
-using Framework.Domain.Events;
-using Framework.Outbox.Abstractions.Repositories;
-using Framework.Outbox.Entities;
+﻿using CleanKit.Net.Application.Abstractions.Data;
+using CleanKit.Net.Domain.Events;
+using CleanKit.Net.Outbox.Abstractions.Repositories;
+using CleanKit.Net.Outbox.Entities;
 using MediatR;
 
-namespace Framework.Outbox.EventHandlers;
+namespace CleanKit.Net.Outbox.EventHandlers;
 
 public class IdempotentDomainEventHandler<TDomainEvent> : IDomainEventHandler<TDomainEvent>
     where TDomainEvent : IDomainEvent

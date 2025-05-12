@@ -1,10 +1,10 @@
-﻿using Framework.Outbox.Abstractions.Repositories;
-using Framework.Outbox.Persistence.Interceptors;
-using Framework.Outbox.Persistence.Repositories;
+﻿using CleanKit.Net.Outbox.Abstractions.Repositories;
+using CleanKit.Net.Outbox.Persistence.Interceptors;
+using CleanKit.Net.Outbox.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Framework.Outbox.Persistence;
+namespace CleanKit.Net.Outbox.Persistence;
 
 public static class DependencyInjection
 {

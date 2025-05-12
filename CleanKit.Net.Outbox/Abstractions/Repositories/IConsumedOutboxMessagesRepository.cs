@@ -1,7 +1,7 @@
-﻿using Framework.Application.Abstractions.Data;
-using Framework.Outbox.Entities;
+﻿using CleanKit.Net.Application.Abstractions.Data;
+using CleanKit.Net.Outbox.Entities;
 
-namespace Framework.Outbox.Abstractions.Repositories;
+namespace CleanKit.Net.Outbox.Abstractions.Repositories;
 
 public interface IConsumedOutboxMessagesRepository : IGenericRepository<ConsumedOutboxMessage>
 {

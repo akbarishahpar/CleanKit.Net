@@ -19,6 +19,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanKit.Net.Presentation",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanKit.Net.Utils", "CleanKit.Net.Utils\CleanKit.Net.Utils.csproj", "{F2F98CDF-AE92-46D4-AD44-3165E30E9F20}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanKit.Net.Outbox", "CleanKit.Net.Outbox\CleanKit.Net.Outbox.csproj", "{55C455A0-7CC0-4EE0-AB6C-F8D03E8A40D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanKit.Net.Outbox.Persistence", "CleanKit.Net.Outbox.Persistence\CleanKit.Net.Outbox.Persistence.csproj", "{CDE4321E-AF02-4988-8E18-6B84C0C543F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{F2F98CDF-AE92-46D4-AD44-3165E30E9F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2F98CDF-AE92-46D4-AD44-3165E30E9F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2F98CDF-AE92-46D4-AD44-3165E30E9F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C455A0-7CC0-4EE0-AB6C-F8D03E8A40D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C455A0-7CC0-4EE0-AB6C-F8D03E8A40D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C455A0-7CC0-4EE0-AB6C-F8D03E8A40D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C455A0-7CC0-4EE0-AB6C-F8D03E8A40D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE4321E-AF02-4988-8E18-6B84C0C543F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE4321E-AF02-4988-8E18-6B84C0C543F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE4321E-AF02-4988-8E18-6B84C0C543F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE4321E-AF02-4988-8E18-6B84C0C543F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

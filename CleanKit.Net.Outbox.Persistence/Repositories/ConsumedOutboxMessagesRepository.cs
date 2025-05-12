@@ -1,9 +1,9 @@
-﻿using Framework.Outbox.Abstractions.Repositories;
-using Framework.Outbox.Entities;
-using Framework.Persistence.Abstractions;
-using Framework.Persistence.Miscellaneous;
+﻿using CleanKit.Net.Outbox.Abstractions.Repositories;
+using CleanKit.Net.Outbox.Entities;
+using CleanKit.Net.Persistence.Abstractions;
+using CleanKit.Net.Persistence.Miscellaneous;
 
-namespace Framework.Outbox.Persistence.Repositories;
+namespace CleanKit.Net.Outbox.Persistence.Repositories;
 
 public class ConsumedOutboxMessagesRepository : GenericRepository<ConsumedOutboxMessage>,
     IConsumedOutboxMessagesRepository

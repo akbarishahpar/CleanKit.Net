@@ -1,8 +1,8 @@
-﻿using Framework.Outbox.Entities;
+﻿using CleanKit.Net.Outbox.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace Framework.Outbox.Persistence.Configurations;
+namespace CleanKit.Net.Outbox.Persistence.Configurations;
 
 public class ConsumedOutboxMessageConfiguration : IEntityTypeConfiguration<ConsumedOutboxMessage>
 {

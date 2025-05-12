@@ -1,6 +1,6 @@
-﻿using Framework.Domain.Abstractions;
+﻿using CleanKit.Net.Domain.Abstractions;
 
-namespace Framework.Outbox.Entities;
+namespace CleanKit.Net.Outbox.Entities;
 
 public class ConsumedOutboxMessage : IEntity
 {

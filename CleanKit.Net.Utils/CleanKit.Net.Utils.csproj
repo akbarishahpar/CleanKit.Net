@@ -25,4 +25,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="Icon.png" Pack="true" PackagePath="" />
+    <None Include="README-NUGET.md" Pack="true" PackagePath="" />
+  </ItemGroup>
+
 </Project>

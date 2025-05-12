@@ -1,9 +1,9 @@
-﻿using Framework.Domain.Primitives;
-using Framework.Outbox.Entities;
+﻿using CleanKit.Net.Domain.Primitives;
+using CleanKit.Net.Outbox.Entities;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using Newtonsoft.Json;
 
-namespace Framework.Outbox.Persistence.Interceptors;
+namespace CleanKit.Net.Outbox.Persistence.Interceptors;
 
 public sealed class ConvertDomainEventsToOutboxMessagesInterceptor : SaveChangesInterceptor
 {

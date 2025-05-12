@@ -1,4 +1,4 @@
-﻿namespace Framework.Outbox.Enumerations;
+﻿namespace CleanKit.Net.Outbox.Enumerations;
 
 public enum OutboxMessageState
 {

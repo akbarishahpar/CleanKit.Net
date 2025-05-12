@@ -1,10 +1,10 @@
-﻿using Framework.Outbox.BackgroundJobs;
-using Framework.Outbox.EventHandlers;
+﻿using CleanKit.Net.Outbox.BackgroundJobs;
+using CleanKit.Net.Outbox.EventHandlers;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using Quartz;
 
-namespace Framework.Outbox;
+namespace CleanKit.Net.Outbox;
 
 public static class DependencyInjection
 {
