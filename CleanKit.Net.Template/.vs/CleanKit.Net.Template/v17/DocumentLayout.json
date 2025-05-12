@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{14B937FE-10BE-4376-A64B-960A832ECDB7}|CleanKit.Net.Template.Application.Abstractions.Repositories\\CleanKit.Net.Template.Application.Abstractions.Repositories.csproj|c:\\users\\mohse\\desktop\\projects\\opensource-project\\cleankit.net-projects\\cleankit.net.template\\cleankit.net.template.application.abstractions.repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B937FE-10BE-4376-A64B-960A832ECDB7}|CleanKit.Net.Template.Application.Abstractions.Repositories\\CleanKit.Net.Template.Application.Abstractions.Repositories.csproj|solutionrelative:cleankit.net.template.application.abstractions.repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A523126-97C6-4246-98D0-305CCF8F4F5E}|CleanKit.Net.Template.Application\\CleanKit.Net.Template.Application.csproj|c:\\users\\mohse\\desktop\\projects\\opensource-project\\cleankit.net-projects\\cleankit.net.template\\cleankit.net.template.application\\cleankit.net.template.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4A523126-97C6-4246-98D0-305CCF8F4F5E}|CleanKit.Net.Template.Application\\CleanKit.Net.Template.Application.csproj|solutionrelative:cleankit.net.template.application\\cleankit.net.template.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A523126-97C6-4246-98D0-305CCF8F4F5E}|CleanKit.Net.Template.Application\\CleanKit.Net.Template.Application.csproj|c:\\users\\mohse\\desktop\\projects\\opensource-project\\cleankit.net-projects\\cleankit.net.template\\cleankit.net.template.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A523126-97C6-4246-98D0-305CCF8F4F5E}|CleanKit.Net.Template.Application\\CleanKit.Net.Template.Application.csproj|solutionrelative:cleankit.net.template.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1241,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,45 +66,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application.Abstractions.Repositories\\Class1.cs",
-              "RelativeDocumentMoniker": "CleanKit.Net.Template.Application.Abstractions.Repositories\\Class1.cs",
-              "ToolTip": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application.Abstractions.Repositories\\Class1.cs",
-              "RelativeToolTip": "CleanKit.Net.Template.Application.Abstractions.Repositories\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T10:47:25.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CleanKit.Net.Template.Application",
-              "DocumentMoniker": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application\\CleanKit.Net.Template.Application.csproj",
-              "RelativeDocumentMoniker": "CleanKit.Net.Template.Application\\CleanKit.Net.Template.Application.csproj",
-              "ToolTip": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application\\CleanKit.Net.Template.Application.csproj",
-              "RelativeToolTip": "CleanKit.Net.Template.Application\\CleanKit.Net.Template.Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T10:40:37.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "CleanKit.Net.Template.Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "CleanKit.Net.Template.Application\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T10:36:30.494Z",
-              "EditorCaption": ""
             }
           ]
         }
