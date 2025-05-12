@@ -12,4 +12,11 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CleanKit.Net.Template.Application.Abstractions.Infrastructure\CleanKit.Net.Template.Application.Abstractions.Infrastructure.csproj" />
+    <ProjectReference Include="..\CleanKit.Net.Template.Application.Abstractions.Repositories\CleanKit.Net.Template.Application.Abstractions.Repositories.csproj" />
+    <ProjectReference Include="..\CleanKit.Net.Template.Application.Messaging\CleanKit.Net.Template.Application.Messaging.csproj" />
+    <ProjectReference Include="..\CleanKit.Net.Template.Domain\CleanKit.Net.Template.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

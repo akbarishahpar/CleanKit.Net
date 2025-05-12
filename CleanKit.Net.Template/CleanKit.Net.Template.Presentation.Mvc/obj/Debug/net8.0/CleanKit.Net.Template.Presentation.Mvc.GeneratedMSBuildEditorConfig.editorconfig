@@ -18,16 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\mohse\Desktop\Projects\OpenSource-Project\CleanKit.Net-Projects\CleanKit.Net.Template\CleanKit.Net.Template.Presentation.Mvc
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/mohse/Desktop/Projects/OpenSource-Project/CleanKit.Net-Projects/CleanKit.Net.Template/CleanKit.Net.Template.Presentation.Mvc/Views/Errors/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JzXEVycm9yNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohse/Desktop/Projects/OpenSource-Project/CleanKit.Net-Projects/CleanKit.Net.Template/CleanKit.Net.Template.Presentation.Mvc/Views/Errors/Error500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JzXEVycm9yNTAwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mohse/Desktop/Projects/OpenSource-Project/CleanKit.Net-Projects/CleanKit.Net.Template/CleanKit.Net.Template.Presentation.Mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mohse/Desktop/Projects/OpenSource-Project/CleanKit.Net-Projects/CleanKit.Net.Template/CleanKit.Net.Template.Presentation.Mvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mohse/Desktop/Projects/OpenSource-Project/CleanKit.Net-Projects/CleanKit.Net.Template/CleanKit.Net.Template.Presentation.Mvc/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mohse/Desktop/Projects/OpenSource-Project/CleanKit.Net-Projects/CleanKit.Net.Template/CleanKit.Net.Template.Presentation.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]

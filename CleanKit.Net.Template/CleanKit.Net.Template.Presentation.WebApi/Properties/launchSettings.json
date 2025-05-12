@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CleanKit.Net.Template.Presentation.WebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63544;http://localhost:63546"
+    }
+  }
+}

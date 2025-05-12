@@ -17,4 +17,8 @@
     <None Remove="Properties\launchSettings.json" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CleanKit.Net.Template.Application.Messaging\CleanKit.Net.Template.Application.Messaging.csproj" />
+  </ItemGroup>
+
 </Project>

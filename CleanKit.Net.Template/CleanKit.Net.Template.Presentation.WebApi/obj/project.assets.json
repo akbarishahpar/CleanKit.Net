@@ -3393,6 +3393,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "CleanKit.Net.Template.Application.Messaging/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Messaging.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Messaging.dll": {}
+        }
       }
     }
   },
@@ -9519,12 +9529,18 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "CleanKit.Net.Template.Application.Messaging/1.0.0": {
+      "type": "project",
+      "path": "../CleanKit.Net.Template.Application.Messaging/CleanKit.Net.Template.Application.Messaging.csproj",
+      "msbuildProject": "../CleanKit.Net.Template.Application.Messaging/CleanKit.Net.Template.Application.Messaging.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Asp.Versioning.Mvc.ApiExplorer >= 8.1.0",
       "CleanKit.Net.Presentation >= 1.0.0",
+      "CleanKit.Net.Template.Application.Messaging >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -9562,7 +9578,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application.Messaging\\CleanKit.Net.Template.Application.Messaging.csproj": {
+              "projectPath": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application.Messaging\\CleanKit.Net.Template.Application.Messaging.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

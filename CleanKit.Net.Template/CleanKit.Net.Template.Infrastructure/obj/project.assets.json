@@ -52,6 +52,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "CleanKit.Net.Template.Application.Abstractions.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Abstractions.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Abstractions.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -147,10 +157,16 @@
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "CleanKit.Net.Template.Application.Abstractions.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../CleanKit.Net.Template.Application.Abstractions.Infrastructure/CleanKit.Net.Template.Application.Abstractions.Infrastructure.csproj",
+      "msbuildProject": "../CleanKit.Net.Template.Application.Abstractions.Infrastructure/CleanKit.Net.Template.Application.Abstractions.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "CleanKit.Net.Template.Application.Abstractions.Infrastructure >= 1.0.0",
       "Microsoft.Extensions.Configuration.Abstractions >= 8.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 8.0.0"
     ]
@@ -189,7 +205,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application.Abstractions.Infrastructure\\CleanKit.Net.Template.Application.Abstractions.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application.Abstractions.Infrastructure\\CleanKit.Net.Template.Application.Abstractions.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

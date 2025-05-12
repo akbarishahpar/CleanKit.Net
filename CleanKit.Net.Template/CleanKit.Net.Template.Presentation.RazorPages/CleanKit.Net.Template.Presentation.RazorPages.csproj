@@ -79,4 +79,8 @@
     <PackageReference Include="CleanKit.Net.Presentation" Version="1.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CleanKit.Net.Template.Application.Messaging\CleanKit.Net.Template.Application.Messaging.csproj" />
+  </ItemGroup>
+
 </Project>

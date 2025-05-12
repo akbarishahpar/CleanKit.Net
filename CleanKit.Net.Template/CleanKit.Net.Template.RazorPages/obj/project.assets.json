@@ -4312,6 +4312,10 @@
         "dependencies": {
           "CleanKit.Net.Application": "1.0.0",
           "CleanKit.Net.Idempotency": "1.0.0",
+          "CleanKit.Net.Template.Application.Abstractions.Infrastructure": "1.0.0",
+          "CleanKit.Net.Template.Application.Abstractions.Repositories": "1.0.0",
+          "CleanKit.Net.Template.Application.Messaging": "1.0.0",
+          "CleanKit.Net.Template.Domain": "1.0.0",
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0"
         },
         "compile": {
@@ -4319,6 +4323,36 @@
         },
         "runtime": {
           "bin/placeholder/CleanKit.Net.Template.Application.dll": {}
+        }
+      },
+      "CleanKit.Net.Template.Application.Abstractions.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Abstractions.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Abstractions.Infrastructure.dll": {}
+        }
+      },
+      "CleanKit.Net.Template.Application.Abstractions.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Abstractions.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Abstractions.Repositories.dll": {}
+        }
+      },
+      "CleanKit.Net.Template.Application.Messaging/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Messaging.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Messaging.dll": {}
         }
       },
       "CleanKit.Net.Template.Domain/1.0.0": {
@@ -4338,6 +4372,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "CleanKit.Net.Template.Application.Abstractions.Infrastructure": "1.0.0",
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
         },
@@ -4355,6 +4390,7 @@
           "CleanKit.Net.Idempotency.Persistence": "1.0.0",
           "CleanKit.Net.Outbox.Persistence": "1.0.0",
           "CleanKit.Net.Persistence": "1.0.0",
+          "CleanKit.Net.Template.Application.Abstractions.Repositories": "1.0.0",
           "CleanKit.Net.Template.Domain": "1.0.0"
         },
         "compile": {
@@ -4369,7 +4405,8 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "CleanKit.Net.DependencyInjection": "1.0.0",
-          "CleanKit.Net.Presentation": "1.0.0"
+          "CleanKit.Net.Presentation": "1.0.0",
+          "CleanKit.Net.Template.Application.Messaging": "1.0.0"
         },
         "compile": {
           "bin/placeholder/CleanKit.Net.Template.Presentation.RazorPages.dll": {}
@@ -11938,6 +11975,21 @@
       "type": "project",
       "path": "../CleanKit.Net.Template.Application/CleanKit.Net.Template.Application.csproj",
       "msbuildProject": "../CleanKit.Net.Template.Application/CleanKit.Net.Template.Application.csproj"
+    },
+    "CleanKit.Net.Template.Application.Abstractions.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../CleanKit.Net.Template.Application.Abstractions.Infrastructure/CleanKit.Net.Template.Application.Abstractions.Infrastructure.csproj",
+      "msbuildProject": "../CleanKit.Net.Template.Application.Abstractions.Infrastructure/CleanKit.Net.Template.Application.Abstractions.Infrastructure.csproj"
+    },
+    "CleanKit.Net.Template.Application.Abstractions.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../CleanKit.Net.Template.Application.Abstractions.Repositories/CleanKit.Net.Template.Application.Abstractions.Repositories.csproj",
+      "msbuildProject": "../CleanKit.Net.Template.Application.Abstractions.Repositories/CleanKit.Net.Template.Application.Abstractions.Repositories.csproj"
+    },
+    "CleanKit.Net.Template.Application.Messaging/1.0.0": {
+      "type": "project",
+      "path": "../CleanKit.Net.Template.Application.Messaging/CleanKit.Net.Template.Application.Messaging.csproj",
+      "msbuildProject": "../CleanKit.Net.Template.Application.Messaging/CleanKit.Net.Template.Application.Messaging.csproj"
     },
     "CleanKit.Net.Template.Domain/1.0.0": {
       "type": "project",

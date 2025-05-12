@@ -1340,6 +1340,16 @@
           }
         }
       },
+      "CleanKit.Net.Template.Application.Abstractions.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Abstractions.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanKit.Net.Template.Application.Abstractions.Repositories.dll": {}
+        }
+      },
       "CleanKit.Net.Template.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -3386,6 +3396,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "CleanKit.Net.Template.Application.Abstractions.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../CleanKit.Net.Template.Application.Abstractions.Repositories/CleanKit.Net.Template.Application.Abstractions.Repositories.csproj",
+      "msbuildProject": "../CleanKit.Net.Template.Application.Abstractions.Repositories/CleanKit.Net.Template.Application.Abstractions.Repositories.csproj"
+    },
     "CleanKit.Net.Template.Domain/1.0.0": {
       "type": "project",
       "path": "../CleanKit.Net.Template.Domain/CleanKit.Net.Template.Domain.csproj",
@@ -3397,6 +3412,7 @@
       "CleanKit.Net.Idempotency.Persistence >= 1.0.0",
       "CleanKit.Net.Outbox.Persistence >= 1.0.0",
       "CleanKit.Net.Persistence >= 1.0.0",
+      "CleanKit.Net.Template.Application.Abstractions.Repositories >= 1.0.0",
       "CleanKit.Net.Template.Domain >= 1.0.0"
     ]
   },
@@ -3435,6 +3451,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application.Abstractions.Repositories\\CleanKit.Net.Template.Application.Abstractions.Repositories.csproj": {
+              "projectPath": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Application.Abstractions.Repositories\\CleanKit.Net.Template.Application.Abstractions.Repositories.csproj"
+            },
             "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Domain\\CleanKit.Net.Template.Domain.csproj": {
               "projectPath": "C:\\Users\\mohse\\Desktop\\Projects\\OpenSource-Project\\CleanKit.Net-Projects\\CleanKit.Net.Template\\CleanKit.Net.Template.Domain\\CleanKit.Net.Template.Domain.csproj"
             }
