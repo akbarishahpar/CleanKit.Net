@@ -15,7 +15,9 @@
     <Authors>akbarishahpar</Authors>
     <Company>akbarishahpar</Company>
     <Description>A .NET toolkit for implementing Clean Architecture with a focus on modularity, separation of concerns, and scalability.</Description>
-    <PackageTags>Clean Architecture MediatR CQRS Fluent Validation</PackageTags>    
+    <PackageTags>Clean Architecture MediatR CQRS Fluent Validation</PackageTags>   
+    <PackageIcon>Icon.png</PackageIcon>
+    <PackageReadmeFile>README-NUGET.md</PackageReadmeFile> 
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <PackageProjectUrl>https://github.com/akbarishahpar/CleanKit.Net</PackageProjectUrl>
@@ -32,6 +34,11 @@
   <!-- Include everything in the template package -->
   <ItemGroup>
     <None Include="**\*.*" Pack="true" PackagePath="content" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Icon.png" Pack="true" PackagePath="" />
+    <None Include="README-NUGET.md" Pack="true" PackagePath="" />
   </ItemGroup>
 
 </Project>
