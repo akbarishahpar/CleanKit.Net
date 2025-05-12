@@ -31,7 +31,7 @@
 
   <!-- Include everything in the template package -->
   <ItemGroup>
-    <None Include="**\*.*" Pack="true" PackagePath="CleanKit.Net.Template" />
+    <None Include="**\*.*" Pack="true" PackagePath="content" />
   </ItemGroup>
 
 </Project>
