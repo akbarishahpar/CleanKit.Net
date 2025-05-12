@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>CleanKit.Net.Template</PackageId>
+    <Version>1.0.0</Version>
+    <PackageVersion>1.0.0</PackageVersion>
+    <FileVersion>1.0.0</FileVersion>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <Authors>akbarishahpar</Authors>
+    <Company>akbarishahpar</Company>
+    <Description>A .NET toolkit for implementing Clean Architecture with a focus on modularity, separation of concerns, and scalability.</Description>
+    <PackageTags>Clean Architecture MediatR CQRS Fluent Validation</PackageTags>    
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/akbarishahpar/CleanKit.Net</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/akbarishahpar/CleanKit.Net</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    
+    <PackageType>Template</PackageType>
+    <BuildProject>false</BuildProject>
+    <IncludeBuildOutput>false</IncludeBuildOutput>
+    <NoBuild>true</NoBuild>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <!-- Include everything in the template package -->
+  <ItemGroup>
+    <None Include="**\*.*" Pack="true" PackagePath="CleanKit.Net.Template" />
+  </ItemGroup>
+
+</Project>
