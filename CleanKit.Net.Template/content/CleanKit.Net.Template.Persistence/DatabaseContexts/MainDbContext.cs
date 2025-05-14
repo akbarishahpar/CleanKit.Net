@@ -11,11 +11,11 @@ public class MainDbContext : DatabaseContext
 
     public MainDbContext(DbContextOptions<MainDbContext> options) : base(options) => EntitiesAssemblies =
     [
-        typeof(Idempotency.DependencyInjection).Assembly,
-        typeof(Idempotency.Persistence.DependencyInjection).Assembly,
-        typeof(Outbox.DependencyInjection).Assembly,
-        typeof(Outbox.Persistence.DependencyInjection).Assembly,
+        typeof(CleanKit.Net.Idempotency.DependencyInjection).Assembly,
+        typeof(CleanKit.Net.Idempotency.Persistence.DependencyInjection).Assembly,
+        typeof(CleanKit.Net.Outbox.DependencyInjection).Assembly,
+        typeof(CleanKit.Net.Outbox.Persistence.DependencyInjection).Assembly,
         typeof(Domain.DependencyInjection).Assembly, // Project-specific domain
-        typeof(DependencyInjection).Assembly
+        typeof(DependencyInjection).Assembly 
     ];
 }
